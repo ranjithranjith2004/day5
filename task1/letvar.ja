@@ -1,0 +1,9 @@
+const name = "Ranjith";   
+let age = 22;           
+
+function greet() {
+    const message = `Hello ${name} ${age}`;
+    console.log(message);
+}
+
+greet();
